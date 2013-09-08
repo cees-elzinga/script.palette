@@ -4,17 +4,18 @@ script.palette
 An add-on for XBMC that creates a palette of the used colors in a video.
 
 **'Avatar' trailer**
-![Screenshot](http://raw.github.com/cees-elzinga/script.palette/master/sample/avatar.png)
+![Screenshot](https://raw.github.com/cees-elzinga/script.palette/master/sample/avatar.png)
 
 **'Finding Nemo' trailer**
-![Screenshot](http://raw.github.com/cees-elzinga/script.palette/master/sample/finding_nemo.png)
+![Screenshot](https://raw.github.com/cees-elzinga/script.palette/master/sample/finding_nemo.png)
 
 **'Life of Pi' trailer**
-![Screenshot](http://raw.github.com/cees-elzinga/script.palette/master/sample/life_of_pi.png)
+![Screenshot](https://raw.github.com/cees-elzinga/script.palette/master/sample/life_of_pi.png)
 
 It samples the video every second and calculates the most dominant color. It creates a PNG image with the colors and/or a HTML page. The HTML page uses a mouse-over effect to show the image it sampled, and optionally updates a Philips Hue light bulb to the selected color.
 
-**[Sample of HTML output](http://htmlpreview.github.io/?https://github.com/cees-elzinga/script.palette/blob/master/sample/html/index.html)**
+**'Life of Pi' HTLM output**
+![Screenshot](https://raw.github.com/cees-elzinga/script.palette/master/sample/life_of_pi_html.png)
 
 Notes:
 
