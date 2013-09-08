@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<setting id="png" type="bool" label="100" default="true" />
+    <setting id="png_filename" type="text" label="101" visible="eq(-1,true)" default="/tmp/a.png" />
+    <setting id="html" type="bool" label="102" default="true" />
+    <setting id="html_dir" type="text" label="103" visible="eq(-1,true)" default="/tmp/html/" />
+</settings>
