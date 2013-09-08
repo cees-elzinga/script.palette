@@ -21,6 +21,8 @@ It samples the video every second and calculates the most dominant color. It cre
 
 ![Screenshot](https://raw.github.com/cees-elzinga/script.palette/master/sample/life_of_pi_html.png)
 
+Complete HTML code available in `samples/html_sample.tar.gz`.
+
 **Notes**
 
  - XBMC add-on is only tested on Ubuntu
